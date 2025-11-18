@@ -34,7 +34,7 @@
 
 ## 🎨 Demo / Screenshots
 
-> Add screenshots of your website here or a link to a live demo.  
+![Alt text]([https://example.com/image.png](https://github.com/Rafia06/image/blob/main/r-1.png)
 
 ---
 

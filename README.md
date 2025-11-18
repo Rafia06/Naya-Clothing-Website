@@ -34,7 +34,11 @@
 
 ## 🎨 Demo / Screenshots
 
-![Alt text]([https://example.com/image.png](https://github.com/Rafia06/image/blob/main/r-1.png)
+#HomePage
+![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-1.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-2.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-3.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-4.png)
 
 ---
 

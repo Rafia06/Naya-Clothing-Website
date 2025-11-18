@@ -34,11 +34,30 @@
 
 ## 🎨 Demo / Screenshots
 
-#HomePage
-![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-1.png)
-![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-2.png)
-![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-3.png)
-![Homepage Screenshot](https://raw.githubusercontent.com/Rafia06/image/main/r-4.png)
+### 🏠 Home Page
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Rafia06/image/main/r-1.png" alt="Home 1" width="45%" />
+  <img src="https://raw.githubusercontent.com/Rafia06/image/main/r-2.png" alt="Home 2" width="45%" />
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Rafia06/image/main/r-3.png" alt="Home 3" width="45%" />
+  <img src="https://raw.githubusercontent.com/Rafia06/image/main/r-4.png" alt="Home 4" width="45%" />
+</p>
+
+
+
+### 👕 Product Preview
+![Product Preview](https://raw.githubusercontent.com/Rafia06/image/main/r-7.png)
+
+### 📄 Product Detail
+![Product Detail](https://raw.githubusercontent.com/Rafia06/image/main/r-5.png)
+
+### 🗂️ Category View
+![Category View](https://raw.githubusercontent.com/Rafia06/image/main/r-6.png)
+
+### 🛒 Cart
+![Cart](https://raw.githubusercontent.com/Rafia06/image/main/r-8.png)
+
 
 ---
 

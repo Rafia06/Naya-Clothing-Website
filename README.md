@@ -58,6 +58,11 @@
 ### 🛒 Cart
 ![Cart](https://raw.githubusercontent.com/Rafia06/image/main/r-8.png)
 
+### 🔐 Sign Up / Sign In
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Rafia06/image/main/r-9.png" alt="SignUp" width="45%" />
+  <img src="https://raw.githubusercontent.com/Rafia06/image/main/r-10.png" alt="SignIn" width="45%" />
+</p>
 
----
+
 
